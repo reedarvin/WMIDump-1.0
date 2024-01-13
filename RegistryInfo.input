@@ -1,0 +1,29 @@
+#
+# List registry keys to be queried below. All keys are queried
+# from the HKEY_LOCAL_MACHINE hive.
+#
+# Format:
+#
+# <registry key>:<registry value>:<REG_SZ | REG_DWORD>
+#
+# Example:
+#
+# SOFTWARE\Microsoft\Windows NT\CurrentVersion:ProductName:REG_SZ
+#
+###############################################################
+
+SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System:LocalAccountTokenFilterPolicy:REG_DWORD
+SOFTWARE\Microsoft\Windows NT\CurrentVersion:ProductName:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion:CurrentVersion:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion:CurrentBuild:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion:CSDVersion:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion:ReleaseId:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:DefaultDomainName:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:DefaultUserName:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:DefaultPassword:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:cachedlogonscount:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:LegalNoticeCaption:REG_SZ
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon:LegalNoticeText:REG_SZ
+SYSTEM\CurrentControlSet\Control\Lsa:nolmhash:REG_DWORD
+SYSTEM\CurrentControlSet\Control\Lsa:restrictanonymous:REG_DWORD
+SYSTEM\CurrentControlSet\Control\Lsa:restrictanonymoussam:REG_DWORD

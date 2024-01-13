@@ -1,0 +1,41 @@
+﻿  WMIDump.cpp
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.h(1): warning C4005: 'CreateDirectory': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(73): note: see previous definition of 'CreateDirectory'
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.h(2): warning C4005: 'FormatMessage': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(2415): note: see previous definition of 'FormatMessage'
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.h(3): warning C4005: 'DeleteFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\fileapi.h(151): note: see previous definition of 'DeleteFile'
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.h(4): warning C4005: 'MoveFile': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winbase.h(5619): note: see previous definition of 'MoveFile'
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(548): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(549): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(550): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(551): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(552): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(580): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(582): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(584): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(735): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(736): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1367): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1368): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1593): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1657): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1768): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1769): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1770): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1771): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1816): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(1909): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(2081): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(2105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(2273): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\reed\custom tools\wmidump 1.0\source\wmidump project\wmidump\wmidump.cpp(2274): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 31 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WMIDump.vcxproj -> D:\Reed\Custom Tools\WMIDump 1.0\source\WMIDump Project\x64\Release\WMIDump.exe
